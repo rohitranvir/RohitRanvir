@@ -1,0 +1,29 @@
+.main{
+    height: 400px;
+    width: 300px;
+    background-color: pink;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+    
+}
+.text{
+    width: 100%;
+}
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: spa;
+    justify-content: space-between;
+
+
+}
+.num li{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 50px;
+
+}
